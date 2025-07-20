@@ -1,4 +1,4 @@
-### Olá! Eu sou o Ewertton Gonçalves 🖖🏽 👨‍💻
+### Olá! Eu sou o Ewertton Gonçalves 🤙🏼 👨‍💻
 
 Profissional em transição de carreira para o desenvolvimento Full Stack Jr, com conhecimentos
 em JavaScript, TypeScript, HTML, CSS, React, Node.js, Git e bancos de dados relacionais
