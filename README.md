@@ -11,7 +11,6 @@
 
 - Experiência anterior em **engenharia e manutenção**, com habilidades transferíveis como:
 
-  - Planejamento
   - Resolução de problemas
   - Comunicação eficaz
   - Trabalho em equipe
