@@ -1,23 +1,42 @@
 ### Olá! Eu sou o Ewertton Gonçalves 🤙🏼 👨‍💻
 
-Profissional em transição de carreira para o desenvolvimento Full Stack Jr, com conhecimentos
-em JavaScript, TypeScript, HTML, CSS, React, Node.js, Git e bancos de dados relacionais
-(MySQL). Possui experiência anterior em engenharia / manutenção, com habilidades
-transferíveis como resolução de problemas, comunicação e trabalho em equipe. Busco uma
-oportunidade como Desenvolvedor Full Stack Jr, para consolidar minha carreira na área de
-tecnologia.<br/>
+---
+💻 **Desenvolvedor Full Stack Jr** em transição de carreira, com foco em JavaScript, TypeScript, Node.js e React.  
 
-## Tecnologias que eu uso no meu dia
-<div style = "display: inline_block"><br/>
-    <img align ="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img align ="center" alt="TypeScript" src ="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)"/>
-    <img align ="center" alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)"/>
-    <img align ="center" alt="Nest.js" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
-    <img align ="center" alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)">
-    <img align ="center" alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)">
-    <img align ="center" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)">
-    <img align ="center" alt="mySql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)"> <br/>
+🥋 **Praticante de Jiu-Jitsu**, onde desenvolvo disciplina, foco e resiliência — valores que aplico diariamente nos meus projetos e na vida profissional.
 
+---
 
-<br> <br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
-![Gonçalves GitHub stats](https://github-readme-stats.vercel.app/api?username=ewerttongoncalvesdev&show_icons=true&theme=dracula)<br/>
+## 🚀 Sobre mim
+
+- Experiência anterior em **engenharia e manutenção**, com habilidades transferíveis como:
+  
+  - Resolução de problemas
+  - Comunicação eficaz
+  - Trabalho em equipe
+  - Gestão de tempo
+    
+- Em **transição de carreira** para a área de desenvolvimento.
+  
+- Apaixonado por **aprendizado contínuo** e por enfrentar novos desafios.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+
+---
+
+## 📊 Estatísticas
+
+   ![Ewertton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewerttongoncalvesdev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewerttongoncalvesdev&layout=compact&theme=tokyonight)
