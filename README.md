@@ -3,6 +3,8 @@
 ---
 💻 **Desenvolvedor Full Stack Jr** em transição de carreira, com foco em JavaScript, TypeScript, Node.js e React.  
 
+🎓 Atualmente cursando **Engenharia de Software**, consolidando minha base acadêmica para crescer na área de tecnologia.
+
 🥋 **Praticante de Jiu-Jitsu**, onde desenvolvo disciplina, foco e resiliência — valores que aplico diariamente nos meus projetos e na vida profissional.
 
 ---
