@@ -1,50 +1,72 @@
-### Olá! Eu sou o Ewertton Gonçalves
+# Olá! Eu sou o Ewertton Gonçalves 👋
 
----
-💻 **Desenvolvedor Full Stack Jr** em transição de carreira, com foco em JavaScript, TypeScript, Node.js e React.  
+## 💻 Desenvolvedor Full Stack | JavaScript & Python
 
-🎓 Atualmente cursando **Engenharia de Software**, consolidando minha base acadêmica para crescer na área de tecnologia.
+Desenvolvedor em transição de carreira, com foco em JavaScript, TypeScript, Python, Node.js e React. Combinando experiência em engenharia com paixão por tecnologia para criar soluções inovadoras.
 
-🥋 **Praticante de Jiu-Jitsu**, onde desenvolvo disciplina, foco e resiliência — valores que aplico diariamente nos meus projetos e na vida profissional.
-
----
-
-## 🚀 Sobre mim
-
-- Experiência anterior em **engenharia e manutenção**, com habilidades transferíveis como:
-
-  - Resolução de problemas
-  - Comunicação eficaz
-  - Trabalho em equipe
-  - Gestão de tempo
-  
-- Em **transição de carreira** para a área de desenvolvimento.
-  
-- Apaixonado por **aprendizado contínuo** e por enfrentar novos desafios.
+🎓 **Formação:** Cursando Engenharia de Software  
+🎓 **Bootcamp:** Desenvolvedor Full Stack Jr - Generation Brasil  
+☁️ **Qualificação:** Cursando AWS re/Start + IA  
+🥋 **Filosofia:** Praticante de Jiu-Jitsu — disciplina, foco e resiliência aplicados ao código
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🚀 Sobre Mim
 
-### 🚀 Tecnologias que uso
+Profissional em **transição de carreira** da área de engenharia e manutenção para desenvolvimento de software. Trago uma bagagem valiosa de habilidades transferíveis:
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="TailwindCSS" height="40" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
-  <img align="center" alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="NestJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+- ✅ Resolução de problemas complexos
+- ✅ Comunicação clara e eficaz
+- ✅ Trabalho colaborativo em equipe
+- ✅ Gestão eficiente de tempo e prioridades
+
+Apaixonado por **aprendizado contínuo** e por transformar desafios em oportunidades de crescimento.
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Cloud & IA
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-00ADD8?style=for-the-badge&logo=ai&logoColor=white)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ewerttongoncalvesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewerttongoncalvesdev&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
 ---
 
-## 📊 Estatísticas
+## 📫 Vamos Conectar?
 
-   ![Ewertton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewerttongoncalvesdev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewerttongoncalvesdev&layout=compact&theme=tokyonight)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewerttongoncalves/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.ewerttongoncalves@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ewerttonlinks.carrd.co/)
+
+---
