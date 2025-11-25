@@ -1,12 +1,12 @@
 # Olá! Eu sou o Ewertton Gonçalves 👋
 
-## 💻 Desenvolvedor Full Stack | JavaScript & Python
+## 💻 Desenvolvedor Full Stack | Python & JavaScript
 
 Desenvolvedor em transição de carreira, com foco em JavaScript, TypeScript, Python, Node.js e React. Combinando experiência em engenharia com paixão por tecnologia para criar soluções inovadoras.
 
 🎓 **Formação:** Cursando Engenharia de Software  
 🎓 **Bootcamp:** Desenvolvedor Full Stack Jr - Generation Brasil  
-☁️ **Qualificação:** Cursando AWS re/Start + IA  
+☁️ **Qualificação:** Cursando AWS Re/start + IA - Escola da Nuvem  
 🥋 **Filosofia:** Praticante de Jiu-Jitsu — disciplina, foco e resiliência aplicados ao código
 
 ---
@@ -57,8 +57,12 @@ Apaixonado por **aprendizado contínuo** e por transformar desafios em oportunid
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ewerttongoncalvesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewerttongoncalvesdev&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ewerttongoncalvesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ewerttongoncalvesdev&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook&exclude_repo=NOME_DO_REPO_PYTHON&cache_seconds=1800"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ewerttongoncalvesdev&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
