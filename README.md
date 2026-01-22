@@ -1,26 +1,30 @@
 # Olá! Eu sou o Ewertton Gonçalves 👋
 
-## 💻 Desenvolvedor Full Stack | Python & JavaScript
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ewerttongoncalvesdev&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-Desenvolvedor em transição de carreira, com foco em JavaScript, TypeScript, Python, Node.js e React. Combinando experiência em engenharia com paixão por tecnologia para criar soluções inovadoras.
+## 💻 Desenvolvedor Full Stack | JavaScript, TypeScript & Python
 
-🎓 **Formação:** Cursando Engenharia de Software  
-🎓 **Bootcamp:** Desenvolvedor Full Stack Jr - Generation Brasil  
-☁️ **Qualificação:** Cursando AWS Re/start + IA - Escola da Nuvem  
-🥋 **Filosofia:** Praticante de Jiu-Jitsu — disciplina, foco e resiliência aplicados ao código
+Desenvolvedor em **transição de carreira**, com foco em **JavaScript, TypeScript, Python, Node.js e React**. Uno experiência prévia em engenharia com desenvolvimento de software para criar soluções eficientes, escaláveis e bem estruturadas.
+
+🎓 **Formação:** Engenharia de Software (em andamento)  
+🎓 **Bootcamp:** Desenvolvedor Full Stack Jr — Generation Brasil  
+☁️ **Cloud & IA:** AWS re/Start + IA — Escola da Nuvem  
+🥋 **Mindset:** Jiu-Jitsu — disciplina, foco e resiliência aplicados ao código
 
 ---
 
 ## 🚀 Sobre Mim
 
-Profissional em **transição de carreira** da área de engenharia e manutenção para desenvolvimento de software. Trago uma bagagem valiosa de habilidades transferíveis:
+Profissional em transição da área de **engenharia e manutenção** para **desenvolvimento de software**, trazendo habilidades transferíveis que fortalecem minha atuação técnica:
 
-- ✅ Resolução de problemas complexos
-- ✅ Comunicação clara e eficaz
-- ✅ Trabalho colaborativo em equipe
-- ✅ Gestão eficiente de tempo e prioridades
+- ✅ Resolução de problemas complexos  
+- ✅ Pensamento analítico e lógico  
+- ✅ Comunicação clara e trabalho em equipe  
+- ✅ Organização, disciplina e gestão de tempo  
 
-Apaixonado por **aprendizado contínuo** e por transformar desafios em oportunidades de crescimento.
+Motivado por **aprendizado contínuo**, boas práticas e construção de soluções que gerem impacto real.
 
 ---
 
@@ -44,9 +48,8 @@ Apaixonado por **aprendizado contínuo** e por transformar desafios em oportunid
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Cloud & IA
+### Cloud
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-00ADD8?style=for-the-badge&logo=ai&logoColor=white)
 
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
@@ -57,12 +60,31 @@ Apaixonado por **aprendizado contínuo** e por transformar desafios em oportunid
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ewerttongoncalvesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ewerttongoncalvesdev&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook&exclude_repo=NOME_DO_REPO_PYTHON&cache_seconds=1800"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ewerttongoncalvesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewerttongoncalvesdev&layout=compact&langs_count=8&theme=tokyonight" />
+
 </div>
 
+---
+
+## 🔥 Dias Consecutivos de Código
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ewerttongoncalvesdev&theme=tokyonight" alt="GitHub Streak"/>
+
+<img src="https://streak-stats.demolab.com?user=ewerttongoncalvesdev&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🏆 Troféus do GitHub
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ewerttongoncalvesdev&theme=tokyonight&row=1&column=6" />
+
 </div>
 
 ---
@@ -71,6 +93,4 @@ Apaixonado por **aprendizado contínuo** e por transformar desafios em oportunid
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewerttongoncalves/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.ewerttongoncalves@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ewerttonlinks.carrd.co/)
-
----
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ewerttonlinks.carrd.co/)
