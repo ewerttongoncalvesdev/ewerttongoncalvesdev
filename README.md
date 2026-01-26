@@ -59,12 +59,11 @@ Motivado por **aprendizado contínuo**, boas práticas e construção de soluç�
 
 ## 📊 Estatísticas GitHub
 
+
 <div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ewerttongoncalvesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ewerttongoncalvesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewerttongoncalvesdev&layout=compact&langs_count=8&theme=tokyonight" />
-
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewerttongoncalvesdev&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800" />
 </div>
 
 ---
@@ -72,9 +71,7 @@ Motivado por **aprendizado contínuo**, boas práticas e construção de soluç�
 ## 🔥 Dias Consecutivos de Código
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ewerttongoncalvesdev&theme=tokyonight" />
-
+  <img src="https://streak-stats.demolab.com?user=ewerttongoncalvesdev&theme=tokyonight&cache_seconds=1800" alt="GitHub Streak" />
 </div>
 
 ---
@@ -82,9 +79,7 @@ Motivado por **aprendizado contínuo**, boas práticas e construção de soluç�
 ## 🏆 Troféus do GitHub
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ewerttongoncalvesdev&theme=tokyonight&row=1&column=6" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=ewerttongoncalvesdev&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
