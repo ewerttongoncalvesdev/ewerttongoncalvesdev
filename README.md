@@ -1,7 +1,7 @@
 # Olá! Eu sou o Ewertton Gonçalves 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ewerttongoncalvesdev&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ewerttongoncalvesdev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ## 💻 Desenvolvedor Full Stack | JavaScript, TypeScript & Python
@@ -19,10 +19,10 @@ Desenvolvedor em **transição de carreira**, com foco em **JavaScript, TypeScri
 
 Profissional em transição da área de **engenharia e manutenção** para **desenvolvimento de software**, trazendo habilidades transferíveis que fortalecem minha atuação técnica:
 
-- ✅ Resolução de problemas complexos  
-- ✅ Pensamento analítico e lógico  
-- ✅ Comunicação clara e trabalho em equipe  
-- ✅ Organização, disciplina e gestão de tempo  
+- ✅ **Resolução de problemas complexos**
+- ✅ **Pensamento analítico e lógico**
+- ✅ **Comunicação clara e trabalho em equipe**
+- ✅ **Organização, disciplina e gestão de tempo**
 
 Motivado por **aprendizado contínuo**, boas práticas e construção de soluções que gerem impacto real.
 
@@ -44,48 +44,34 @@ Motivado por **aprendizado contínuo**, boas práticas e construção de soluç�
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### Banco de Dados
+### Banco de Dados & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Cloud
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📊 Estatísticas GitHub
 
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ewerttongoncalvesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
-
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewerttongoncalvesdev&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800" />
-</div>
+<p align="center">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ewerttongoncalvesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ewerttongoncalvesdev&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🔥 Dias Consecutivos de Código
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ewerttongoncalvesdev&theme=tokyonight&cache_seconds=1800" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 Troféus do GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ewerttongoncalvesdev&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ewerttongoncalvesdev&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 📫 Vamos Conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewerttongoncalves/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.ewerttongoncalves@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ewerttonlinks.carrd.co/)
+<p align="left">
+<a href="https://www.linkedin.com/in/ewerttongoncalves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:dev.ewerttongoncalves@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://ewerttonlinks.carrd.co/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio"></a>
+</p>
