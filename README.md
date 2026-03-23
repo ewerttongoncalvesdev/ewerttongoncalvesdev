@@ -4,50 +4,58 @@
   <img src="https://komarev.com/ghpvc/?username=ewerttongoncalvesdev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-## 💻 Desenvolvedor Full Stack | JavaScript, TypeScript & Python
+## ☁️ Analista de Monitoramento Jr | Observabilidade | Cloud
 
-Desenvolvedor em **transição de carreira**, com foco em **JavaScript, TypeScript, Python, Node.js e React**. Uno experiência prévia em engenharia com desenvolvimento de software para criar soluções eficientes, escaláveis e bem estruturadas.
+Profissional focado em **Observabilidade e Cloud**, com experiência em monitoramento de sistemas, análise de métricas e suporte à confiabilidade de aplicações.
+
+Uno minha base em **desenvolvimento Full Stack** com atuação em **monitoramento e análise de ambientes**, trazendo uma visão completa entre código e infraestrutura.
 
 🎓 **Formação:** Engenharia de Software (em andamento)  
 🎓 **Bootcamp:** Desenvolvedor Full Stack Jr — Generation Brasil  
-☁️ **Cloud & IA:** AWS re/Start + IA — Escola da Nuvem  
-🥋 **Mindset:** Jiu-Jitsu — disciplina, foco e resiliência aplicados ao código
+☁️ **Cloud:** AWS re/Start + Escola da Nuvem  
+🥋 **Mindset:** Jiu-Jitsu — disciplina, foco e resiliência
 
 ---
 
 ## 🚀 Sobre Mim
 
-Profissional em transição da área de **engenharia e manutenção** para **desenvolvimento de software**, trazendo habilidades transferíveis que fortalecem minha atuação técnica:
+Atualmente atuando como **Analista de Monitoramento Jr**, com foco em:
 
-- ✅ **Resolução de problemas complexos**
-- ✅ **Pensamento analítico e lógico**
-- ✅ **Comunicação clara e trabalho em equipe**
-- ✅ **Organização, disciplina e gestão de tempo**
+- 📊 Monitoramento de aplicações e infraestrutura  
+- 🚨 Análise de alertas e incidentes  
+- 📈 Observabilidade com métricas, logs e dashboards  
+- ☁️ Ambientes Cloud (AWS / GCP)  
 
-Motivado por **aprendizado contínuo**, boas práticas e construção de soluções que gerem impacto real.
+Minha transição de carreira me trouxe habilidades fortes como:
+
+- ✅ Pensamento analítico e resolução de problemas  
+- ✅ Visão sistêmica (aplicação + infraestrutura)  
+- ✅ Comunicação e trabalho em equipe  
+- ✅ Organização e disciplina  
+
+Sempre em evolução para me tornar especialista em **Observabilidade e Engenharia de Confiabilidade (SRE)**.
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-### Frontend
+### 🔎 Observabilidade & Monitoramento
+![Grafana](https://img.shields.io/badge/Grafana-000?style=for-the-badge&logo=grafana&logoColor=orange)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
+
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 💻 Desenvolvimento
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### Banco de Dados & Cloud
+### 🗄️ Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
